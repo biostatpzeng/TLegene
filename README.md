@@ -26,7 +26,7 @@ statistics can be derived. Finally, in order to aggregate the two independent te
 TLegene-aScore, and TLegene-fScore).
 
 # Example
-The example of IEHC is shown in [Example.md](https://github.com/biostatLu/IEHC/blob/main/Example.md)
+The example of IEHC is shown in
 
 # Cite
 Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup> and Ping Zeng<sup>#</sup> (2022). Incorporating genetic similarity of auxiliary samples into eGene identification under the transfer learning framework, in press.
