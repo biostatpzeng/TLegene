@@ -50,7 +50,8 @@ ph<-cbind(po,pa,pfi)
 phmp<-as.vector(c(p.hmp(ph,L=length(ph))))
 $pvalues
                              
-                             
+```
+  
 # Cite
 Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup> and Ping Zeng<sup>#</sup> (2022). Incorporating genetic similarity of auxiliary samples into eGene identification under the transfer learning framework.
 
