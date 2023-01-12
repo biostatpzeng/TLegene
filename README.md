@@ -44,20 +44,16 @@ result=TLegene(data,d=2,p,R=1,
 
 po=result$pvalue[3]
 pa=result$pvalue[4]
-pfi=result$pvalue[5]
-ph<-cbind(po,pa,pfi)
+pf=result$pvalue[5]
+ph<-cbind(po,pa,pf)
 phmp<-as.vector(c(p.hmp(ph,L=length(ph))))
 $pvalue
 
-
-  pvalue.TLegene-optim   4.93183049954382e-10
-  
+  pvalue.TLegene-optim   4.93183049954382e-10 
 
   pvalue.TLegene-adapt   2.86890693215321e-16
 
-
   pvalue.TLegene-Fisher  2.94312008307861e-15
-
 
   pvalue.TLegene-HMP     7.8422646713986e-16
                              
