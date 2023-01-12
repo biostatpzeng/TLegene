@@ -1,4 +1,4 @@
-# TLegene
+# TLegene：Incorporating genetic similarity of auxiliary samples into eGene identification under the transfer learning framework
 
 # Introduction
 TLegene is a R procedure for borrowing the idea of transfer learning to integrate useful genetic information available from external studies for multilocus-based eGene 
