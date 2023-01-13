@@ -53,7 +53,7 @@ $pvalue
 
   pvalue.TLegene-adapt   2.86890693215321e-16
 
-  pvalue.TLegene-Fisher  2.94312008307861e-15
+  pvalue.TLegene-fisher  2.94312008307861e-15
 
   pvalue.TLegene-HMP     7.8422646713986e-16
                              
